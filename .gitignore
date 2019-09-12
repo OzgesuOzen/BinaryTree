@@ -1,1 +1,2 @@
-/out/production/BTreeImplementation/*.class
+#ignore .class files
+/out/production/BTreeImplementation/App.class
